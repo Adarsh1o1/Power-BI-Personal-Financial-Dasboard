@@ -17,9 +17,9 @@ A **Power BI Dashboard** to track and analyze personal finances, including **inc
 ![Dashboard Overview](Screenshot/image.png)
 
 ## 📂 Repository
-- `pbix/` – Power BI file  
-- `data/` – dataset
-- `screenshot/` – Dashboard images  
+- Power BI file  
+- Dataset Excel file
+- `screenshot/` – Dashboard images
 
 
 ---
