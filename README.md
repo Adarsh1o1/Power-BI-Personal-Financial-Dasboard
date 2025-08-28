@@ -14,7 +14,7 @@ A **Power BI Dashboard** to track and analyze personal finances, including **inc
 
 ## 📸 Screenshot
 
-![Dashboard Overview](screenshot/image.png)
+![Dashboard Overview](Screenshot/image.png)
 
 ## 📂 Repository
 - `pbix/` – Power BI file  
